@@ -57,10 +57,11 @@ Explore more about my projects, experience, skills, and achievements on my [port
 
 I'm always open to new opportunities! Feel free to reach out through my [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
 
+<!--
 ##
 <div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bilalm04&theme=nord_dark)
 
-</div>
+</div>-->
 
