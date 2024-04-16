@@ -10,8 +10,6 @@
 
 I am a second-year software engineering student at McMaster University, driven by my love for programming and an unwavering curiosity for technology.
 
-As I progress in my academic journey, I'm actively seeking opportunities to gain practical experience in the software development world. I'm excited about the prospect of contributing to innovative projects and collaborating with like-minded individuals in the software development field.
-
 ## Skills
 
 💻 **Programming Languages:** <br/><br/>
