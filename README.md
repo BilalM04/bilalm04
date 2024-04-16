@@ -30,6 +30,10 @@ As I progress in my academic journey, I'm actively seeking opportunities to gain
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+![Pygame](https://img.shields.io/badge/Pygame-C93C20?style=for-the-badge)
+![Java Swing](https://img.shields.io/badge/Java_Swing-E5BE01?style=for-the-badge)
+![Processing.py](https://img.shields.io/badge/Processing.py-1F3A3D?style=for-the-badge)
+
 <!--Pygame, Java Swing, Processing.py-->
 
 🛠️ **Tools & Platforms:** <br/><br/>
