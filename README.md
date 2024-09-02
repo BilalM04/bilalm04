@@ -8,7 +8,7 @@
 
 # Hello, I'm Mohammad Bilal 👋
 
-I am a second-year software engineering student at McMaster University, driven by my love for programming and an unwavering curiosity for technology.
+I am a third-year software engineering student at McMaster University, driven by my love for programming and an unwavering curiosity for technology.
 
 ## Tech Stack
 
