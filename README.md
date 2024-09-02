@@ -10,7 +10,7 @@
 
 I am a second-year software engineering student at McMaster University, driven by my love for programming and an unwavering curiosity for technology.
 
-## Skills
+## Tech Stack
 
 💻 **Programming Languages:** <br/><br/>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -22,6 +22,8 @@ I am a second-year software engineering student at McMaster University, driven b
 ![Verilog](https://img.shields.io/badge/Verilog-%23ff8cd9?style=for-the-badge&logo=Verilog&logoColor=%ffffff)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Haskell](https://img.shields.io/badge/haskell-%23293745.svg?style=for-the-badge&logo=haskell&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ⚙️ **Frameworks/Libraries:** <br/><br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -31,6 +33,10 @@ I am a second-year software engineering student at McMaster University, driven b
 ![Pygame](https://img.shields.io/badge/Pygame-C93C20?style=for-the-badge)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-E5BE01?style=for-the-badge)
 ![Processing.py](https://img.shields.io/badge/Processing.py-1F3A3D?style=for-the-badge)
+![scikitlearn](https://img.shields.io/badge/scikitlearn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%234DAACF.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%2311557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 <!--Pygame, Java Swing, Processing.py-->
 
@@ -50,6 +56,7 @@ I am a second-year software engineering student at McMaster University, driven b
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![LaTeX](https://img.shields.io/badge/jupyter%20notebook-%23ED8B00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## Portfolio
 
@@ -57,7 +64,7 @@ Explore more about my projects, experience, skills, and achievements on my [port
 
 ## Contact
 
-I'm always open to new opportunities! Feel free to reach out through my [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
+I'm always open to new opportunities! Feel free to reach out through my [email](mailto:bilalm14@mcmaster.ca) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammadbilal7/).
 
 <!--
 ##
