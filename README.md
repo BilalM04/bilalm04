@@ -10,6 +10,17 @@
 
 I am a third-year software engineering student at McMaster University, driven by my love for programming and an unwavering curiosity for technology.
 
+---
+
+<div align="center">
+
+![bilalm04's Stats](https://github-readme-stats.vercel.app/api?username=bilalm04&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+![bilalm04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilalm04&theme=graywhite&hide_border=true)
+
+</div>
+
+<!--
+
 ## Tech Stack
 
 💻 **Programming Languages:** <br/><br/>
@@ -38,8 +49,6 @@ I am a third-year software engineering student at McMaster University, driven by
 ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%2311557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-<!--Pygame, Java Swing, Processing.py-->
-
 🛠️ **Tools & Platforms:** <br/><br/>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -57,6 +66,8 @@ I am a third-year software engineering student at McMaster University, driven by
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/jupyter%20notebook-%23ED8B00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+-->
 
 ## Portfolio
 
