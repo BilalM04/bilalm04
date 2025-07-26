@@ -14,7 +14,7 @@ I am a third-year software engineering student at McMaster University, driven by
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bilalm04&theme=graywhite&show_icons=true&hide_border=false&count_private=true" width="45%"></img> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalm04&theme=graywhite&hide_border=false" width="47.95%"></img> 
+<img src="https://github-readme-stats.vercel.app/api?username=bilalm04&theme=graywhite&show_icons=true&hide_border=false&count_private=true&rank_icon=github" width="45%"></img> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalm04&theme=graywhite&hide_border=false" width="47.95%"></img> 
 
 </div>
 
