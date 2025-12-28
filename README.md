@@ -70,7 +70,7 @@ I am a software engineering student at McMaster University, driven by my love fo
 
 ## Portfolio
 
-Explore more about my projects, experience, skills, and achievements on my [portfolio website](https://bilalm04.github.io/).
+Explore more about my projects, experience, and achievements on my [portfolio website](https://bilalm04.github.io/).
 
 ## Contact
 
