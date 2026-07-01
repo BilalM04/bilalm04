@@ -74,7 +74,7 @@ Explore more about my projects, experience, and achievements on my [portfolio we
 
 ## Contact
 
-I'm always open to new opportunities! Feel free to reach out through my [email](mailto:bilalm14@mcmaster.ca) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammadbilal7/).
+I'm always open to new opportunities! Feel free to reach out through my [email](mailto:bilalmohd04@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bilalm04/).
 
 <!--
 ##
